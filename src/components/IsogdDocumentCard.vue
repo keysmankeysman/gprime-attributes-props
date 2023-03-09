@@ -1,6 +1,6 @@
 <template>
     <div>
-        Компонент кард
+        Компонент кард +
         Аттрибуты:
         {{ attributes }}
         <isogd-document-attributes
